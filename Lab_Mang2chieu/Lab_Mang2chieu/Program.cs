@@ -145,7 +145,9 @@ namespace Lab_Mang2chieu
             timX(A, m, n);
             Console.WriteLine();
             Console.WriteLine("Tong cac phan tu tren duong cheo chinh la: {0}" ,tongCheo(A, m, n));
-
+          
+             / * Viết hàm thực hiện sắp xếp các phần tử trên dòng chẵn tăng dần và dòng lẽ giảm dần.
+                 */
 
 
 
