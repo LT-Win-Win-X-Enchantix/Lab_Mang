@@ -1,0 +1,14 @@
+C:\Users\84902\source\repos\Lab_Mang2chieu\Lab_Mang2chieu\obj\Debug\netcoreapp3.1\Lab_Mang2chieu.csproj.AssemblyReference.cache
+C:\Users\84902\source\repos\Lab_Mang2chieu\Lab_Mang2chieu\obj\Debug\netcoreapp3.1\Lab_Mang2chieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84902\source\repos\Lab_Mang2chieu\Lab_Mang2chieu\obj\Debug\netcoreapp3.1\Lab_Mang2chieu.AssemblyInfoInputs.cache
+C:\Users\84902\source\repos\Lab_Mang2chieu\Lab_Mang2chieu\obj\Debug\netcoreapp3.1\Lab_Mang2chieu.AssemblyInfo.cs
+C:\Users\84902\source\repos\Lab_Mang2chieu\Lab_Mang2chieu\obj\Debug\netcoreapp3.1\Lab_Mang2chieu.csproj.CoreCompileInputs.cache
+C:\Users\84902\source\repos\Lab_Mang2chieu\Lab_Mang2chieu\bin\Debug\netcoreapp3.1\Lab_Mang2chieu.exe
+C:\Users\84902\source\repos\Lab_Mang2chieu\Lab_Mang2chieu\bin\Debug\netcoreapp3.1\Lab_Mang2chieu.deps.json
+C:\Users\84902\source\repos\Lab_Mang2chieu\Lab_Mang2chieu\bin\Debug\netcoreapp3.1\Lab_Mang2chieu.runtimeconfig.json
+C:\Users\84902\source\repos\Lab_Mang2chieu\Lab_Mang2chieu\bin\Debug\netcoreapp3.1\Lab_Mang2chieu.runtimeconfig.dev.json
+C:\Users\84902\source\repos\Lab_Mang2chieu\Lab_Mang2chieu\bin\Debug\netcoreapp3.1\Lab_Mang2chieu.dll
+C:\Users\84902\source\repos\Lab_Mang2chieu\Lab_Mang2chieu\bin\Debug\netcoreapp3.1\Lab_Mang2chieu.pdb
+C:\Users\84902\source\repos\Lab_Mang2chieu\Lab_Mang2chieu\obj\Debug\netcoreapp3.1\Lab_Mang2chieu.dll
+C:\Users\84902\source\repos\Lab_Mang2chieu\Lab_Mang2chieu\obj\Debug\netcoreapp3.1\Lab_Mang2chieu.pdb
+C:\Users\84902\source\repos\Lab_Mang2chieu\Lab_Mang2chieu\obj\Debug\netcoreapp3.1\Lab_Mang2chieu.genruntimeconfig.cache
